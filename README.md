@@ -136,6 +136,5 @@ This project is licensed under the **MIT License**.
 **Prabhjot Singh**
 Python Programmer | Web Developer | Frontend Designer
 
-```
-
+<img width="1914" height="972" alt="image" src="https://github.com/user-attachments/assets/a6e3d475-06e4-46cf-b581-df5ea3dd5901" />
 
