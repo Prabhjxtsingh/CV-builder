@@ -1,7 +1,3 @@
-Here is a **clean, professional, resume-ready README.md text** you can **directly copy-paste** into GitHub.
-It is written to look **strong for internships, placements, and recruiters**.
-
----
 
 ````md
 # 🎓 Student Resume Builder
@@ -142,13 +138,4 @@ Python Programmer | Web Developer | Frontend Designer
 
 ```
 
----
 
-If you want, I can also:
-- ✨ Make a **shorter README** (for hackathons)
-- 🌐 Add **live demo + deployment steps**
-- 📌 Optimize this README for **recruiter scanning**
-- 🧠 Rewrite it in **AI-project style**
-
-Just tell me what you want next 🚀
-```
